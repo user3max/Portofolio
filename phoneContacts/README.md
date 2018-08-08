@@ -1,2 +1,2 @@
 # CPP
-phoneContacts program used Linked List
+phoneContacts program using Linked List
