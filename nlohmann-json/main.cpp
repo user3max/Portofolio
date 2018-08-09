@@ -17,7 +17,7 @@ int main()
 	if(it_action != j.end()) //we use if to make sure we don't get an error when (it_action != j.end()) is FALSE
 	{
 		std::cout << "Value at key \"arg\" : " << *it_action << std::endl;
-		//*it_action returnvaluer at key arg
+		//*it_action return value at key arg
 	}
 	else
 		std::cout << "Key \"arg\" was not found!" << std::endl;
