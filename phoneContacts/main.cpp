@@ -6,7 +6,7 @@ int main()
 	std::string command;
 	Contacts list;
 
-	std::cout << "---Program *Phone Number Contacts*---" << std::endl;
+	std::cout << "---Program *Phone Number Book*---" << std::endl;
 	while(command != "EXIT")
 	{
 		
