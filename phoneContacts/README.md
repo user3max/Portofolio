@@ -1,2 +1,2 @@
 # C++
-Simple (add/show) contacts book program using linked list.
+Simple (add/search) contacts book program using linked list.
