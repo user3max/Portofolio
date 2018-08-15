@@ -1,5 +1,0 @@
-{
-	"component" : "JsonStringToParse",
-	"arg" : "jsonstring",
-	"kwargs" : {"str" : "<str>"}
-}
